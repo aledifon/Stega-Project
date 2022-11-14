@@ -21,6 +21,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vsconfig/
 
 # Gradle cache directory
 .gradle/
@@ -58,3 +59,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Tests/Proyecto Ardillil/.vsconfig
+Tests/MyFirstUnityProject_10_10/.vsconfig
+Tests/MyFirstScriptProject/.vsconfig
+Tests/My project/.vsconfig
+Tests/ClaseIluminacion_27_10/.vsconfig
+Tests/APIUnity_28_11/.vsconfig
+Tests/APIUnity_24_10/.vsconfig
+Tests/APIUnity_08_11/.vsconfig
+Tests/APIUnity_04_11/.vsconfig
+.vsconfig
