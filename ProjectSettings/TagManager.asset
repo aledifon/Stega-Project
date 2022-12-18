@@ -4,17 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
-  - Coin
+  - Ground
+  - Acorn
+  - Platform
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
+  - Grasshopper
+  - Player
   - 
   - 
   - 
@@ -40,6 +41,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Sky
+    uniqueID: 32255817
+    locked: 0
+  - name: Mountains
+    uniqueID: 2847589395
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 42335091
     locked: 0

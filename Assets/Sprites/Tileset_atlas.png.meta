@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 7c1f65f1dbb09d9498b47aa8a04fb8ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 591
+        width: 252
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c422889080e3d8f4aba1e45c7605036c
+      internalID: 1807328769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 434
+        width: 253
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8027173aad8f049aa447298ffb736a
+      internalID: 163602808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_atlas_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 429
+        width: 253
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509e3365c9d77744803bd4788714395
+      internalID: 953686304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_atlas_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 253
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308dbf228b08a2d4bba3e36fb98a1aee
+      internalID: 235878931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset_atlas_33: -1033354780
+      Tileset_atlas_82: -1243102521
+      Tileset_atlas_34: -339732590
+      Tileset_atlas_24: 1676721273
+      Tileset_atlas_72: -843209682
+      Tileset_atlas_25: 850394148
+      Tileset_atlas_62: -2081768357
+      Tileset_atlas_71: 1533439339
+      Tileset_atlas_74: -90522600
+      Tileset_atlas_58: -1093735236
+      Tileset_atlas_68: 1751206776
+      Tileset_atlas_64: 1294506573
+      Tileset_atlas_12: -699936993
+      Tileset_atlas_20: -1340045965
+      Tileset_atlas_65: 1435952145
+      Tileset_atlas_86: -1230099858
+      Tileset_atlas_23: 625831701
+      Tileset_atlas_75: 1639570159
+      Tileset_atlas_73: -1069645717
+      Tileset_atlas_3: 1103117712
+      Tileset_atlas_2: 430166768
+      Tileset_atlas_66: 937532481
+      Tileset_atlas_19: 290435002
+      Tileset_atlas_53: 1653060326
+      Tileset_atlas_32: 293221105
+      Tileset_atlas_0: 1807328769
+      Tileset_atlas_5: -16804372
+      Tileset_atlas_40: -1966857639
+      Tileset_atlas_49: 679417059
+      Tileset_atlas_56: 2060300924
+      Tileset_atlas_36: -263739548
+      Tileset_atlas_81: -697480763
+      Tileset_atlas_54: 26506160
+      Tileset_atlas_63: -2128246933
+      Tileset_atlas_41: 980180102
+      Tileset_atlas_45: -953727592
+      Tileset_atlas_48: 653274904
+      Tileset_atlas_4: -1863656871
+      Tileset_atlas_60: 235878931
+      Tileset_atlas_14: -1626343777
+      Tileset_atlas_85: -1010689162
+      Tileset_atlas_55: -1901762763
+      Tileset_atlas_79: 1276792452
+      Tileset_atlas_8: 1119782798
+      Tileset_atlas_37: -1215758748
+      Tileset_atlas_44: -361100079
+      Tileset_atlas_26: 247417372
+      Tileset_atlas_11: -1654599924
+      Tileset_atlas_1: 163602808
+      Tileset_atlas_51: -488273893
+      Tileset_atlas_35: 342917838
+      Tileset_atlas_83: -193871991
+      Tileset_atlas_69: -715989240
+      Tileset_atlas_38: 1673519938
+      Tileset_atlas_31: -948295183
+      Tileset_atlas_61: -416140668
+      Tileset_atlas_76: -1401730668
+      Tileset_atlas_78: -1907883043
+      Tileset_atlas_17: 1635846340
+      Tileset_atlas_87: -2042250965
+      Tileset_atlas_27: -501591940
+      Tileset_atlas_13: -1348167235
+      Tileset_atlas_70: -578646538
+      Tileset_atlas_7: 897226101
+      Tileset_atlas_22: 953686304
+      Tileset_atlas_6: 221312763
+      Tileset_atlas_84: 171392385
+      Tileset_atlas_29: -1287340282
+      Tileset_atlas_9: -759487495
+      Tileset_atlas_16: 1368609304
+      Tileset_atlas_47: -1345427216
+      Tileset_atlas_67: -1116280552
+      Tileset_atlas_42: 1078118287
+      Tileset_atlas_52: -121998821
+      Tileset_atlas_43: 757246514
+      Tileset_atlas_80: 424177516
+      Tileset_atlas_10: 748896707
+      Tileset_atlas_57: -388028014
+      Tileset_atlas_30: -713979300
+      Tileset_atlas_77: 521155250
+      Tileset_atlas_46: -2030245748
+      Tileset_atlas_15: -730316076
+      Tileset_atlas_21: 467256791
+      Tileset_atlas_59: -1277186388
+      Tileset_atlas_50: 431612135
+      Tileset_atlas_39: 1378484576
+      Tileset_atlas_28: 1552260672
+      Tileset_atlas_18: -1578632220
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
